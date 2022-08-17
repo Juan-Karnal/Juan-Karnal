@@ -1,6 +1,6 @@
 ## Olá, me chamo Juan! 👋
 
-- 🔭 Sou do Monitoramento da Estapar procurando uma oportunidade de desenvolvimento Web
+- 🔭 Sou do Monitoramento da Estapar buscando entrar no mercado de T.I
 - 🌱 HTML | CSS | JS | Python | SQL | RocketSeat | Git e Github
 - ⚡ Analise e Desenvolvimento de Sistemas pela Uniasselvi
 
