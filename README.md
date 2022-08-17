@@ -7,8 +7,8 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/juan-marcello-karnal-barcellos-318a74155/">
     
-  <img width = 50% src="https://github-readme-stats.vercel.app/api?username=Juan-Karnal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width = 50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Karnal&layout=compact&langs_count=7&theme=dark"/>
+  <img width = 45% src="https://github-readme-stats.vercel.app/api?username=Juan-Karnal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width = 45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan-Karnal&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
