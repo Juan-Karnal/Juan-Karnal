@@ -1,7 +1,10 @@
 ## Olá, me chamo Juan! 👋
 
-- 🔭 Sou Analista assistente de TI Regional da Estapar rodando todo o RS resolvendo problemas.
-- 🌱 HTML | CSS | JS | Python | SQL | RocketSeat | Git e Github
+- 🔭 Bem vindo ao meu perfil profissional.
+Atualmente trabalho como Analista de TI Regional na Estapar, abrangendo desde garagens na região metropolitana de Porto Alegre á algumas garagens da Serra Gaúcha atuando diretamente com suporte, implantação e sustentação de sistemas.
+
+- 🌱 Automação WPS, NEPOS, PERTO |  Windows Server | JavaScript, Python, SQL Server, SQLite, GIT
+
 - ⚡ Analise e Desenvolvimento de Sistemas pela Uniasselvi
 
 <div align="left">
