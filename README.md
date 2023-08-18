@@ -1,6 +1,6 @@
 ## Olá, me chamo Juan! 👋
 
-- 🔭 Sou da Central de Gerenciamento e Controle da Estapar buscando entrar no mercado de T.I
+- 🔭 Sou Analista assistente de TI Regional da Estapar rodando todo o RS resolvendo problemas.
 - 🌱 HTML | CSS | JS | Python | SQL | RocketSeat | Git e Github
 - ⚡ Analise e Desenvolvimento de Sistemas pela Uniasselvi
 
